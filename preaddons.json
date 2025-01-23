@@ -5,5 +5,12 @@
     "url": "https://raw.githubusercontent.com/Free-TV/IPTV/master/playlist.m3u8",
     "type": "livetv",
     "description": "List of Free and Public IPTV Channels available worldwide"
+  },
+  {
+    "title": "Radio Browser",
+    "logo": "https://raw.githubusercontent.com/rogplay/public/refs/heads/main/assets/radiobrowser.png",
+    "url": "http://nl1.api.radio-browser.info/m3u/stations",
+    "type": "livetv",
+    "description": "List of Free and Public Radio Channels available worldwide"
   }
 ]

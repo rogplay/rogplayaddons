@@ -9,7 +9,7 @@
   {
     "title": "Radio Browser",
     "logo": "https://raw.githubusercontent.com/rogplay/public/refs/heads/main/assets/radiobrowser.ico",
-    "url": "http://nl1.api.radio-browser.info/m3u/stations",
+    "url": "https://nl1.api.radio-browser.info/m3u/stations",
     "type": "livetv",
     "description": "List of Free and Public Radio Channels available worldwide"
   }

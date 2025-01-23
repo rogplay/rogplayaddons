@@ -1,6 +1,6 @@
 [
   {
-    "title": "Free TV/IPTV",
+    "title": "Free IPTV",
     "logo": "https://raw.githubusercontent.com/rogplay/public/refs/heads/main/assets/freeiptv.png",
     "url": "https://raw.githubusercontent.com/Free-TV/IPTV/master/playlist.m3u8",
     "type": "livetv",
@@ -8,7 +8,7 @@
   },
   {
     "title": "Radio Browser",
-    "logo": "https://raw.githubusercontent.com/rogplay/public/refs/heads/main/assets/radiobrowser.png",
+    "logo": "https://raw.githubusercontent.com/rogplay/public/refs/heads/main/assets/radiobrowser.ico",
     "url": "http://nl1.api.radio-browser.info/m3u/stations",
     "type": "livetv",
     "description": "List of Free and Public Radio Channels available worldwide"
